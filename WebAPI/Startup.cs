@@ -11,7 +11,7 @@ namespace WebAPI
     {
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;//test commenting for a second time
+            Configuration = configuration;//test commenting for a second time, updated in VS
         }
 
         public IConfiguration Configuration { get; }
